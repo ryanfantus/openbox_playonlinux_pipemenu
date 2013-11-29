@@ -1,5 +1,5 @@
 #!/bin/bash
-#	polmenu.sh - a playonlinux game launcher for openbox
+#	openbox_playonlinux_pipemenu.sh - a playonlinux game launcher for openbox
 #	initially created 2013 - Ryan Fantus
 #
 # path to your PlayOnLinux shortcuts folder, assumes $HOME/
